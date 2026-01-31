@@ -1,6 +1,6 @@
 # Ren'Py: Re-Engineered
 
-> High-performance implementation of the Ren'Py visual novel engine with improved performance and extended compatibility
+> High-performance implementation of the Ren'Py visual novel engine with improved performance and extended compatibility!
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![GitHub release](https://img.shields.io/github/v/release/RenPy-ReEngineered/renpy-reengineered)](https://github.com/SergoPSP/renpy-re-engineered/releases)
@@ -72,7 +72,6 @@ Supported platforms:
 
 ```bash
 # Clone repository
-git clone https://github.com/RenPy-ReEngineered/renpy-reengineered.git
-cd renpy-reengineered
-
-# Build instructions here
+git clone https://github.com/SergoPSP/renpy-re-engineered.git
+cd renpy-re-engineered
+mkdir build && cd build && cmake .. && make
