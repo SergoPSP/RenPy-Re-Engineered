@@ -18,7 +18,6 @@
 - [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Building from Source](#building-from-source)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Overview
@@ -75,3 +74,8 @@ Supported platforms:
 git clone https://github.com/SergoPSP/renpy-re-engineered.git
 cd renpy-re-engineered
 mkdir build && cd build && cmake .. && make
+```
+
+##License
+
+- This project is licensed under the GNU General Public License Version 3 (GPLv3).
