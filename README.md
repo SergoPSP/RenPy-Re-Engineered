@@ -57,7 +57,7 @@ Ren'Py: Re-Engineered is a reimplementation of the popular Ren'Py visual novel e
 
 ## Installation
 
-Download the latest release from the [Releases](https://github.com/RenPy-ReEngineered/renpy-reengineered/releases) page.
+Download the latest release from the [Releases](https://github.com/SergoPSP/renpy-re-engineered/releases) page.
 
 Supported platforms:
 - Windows
