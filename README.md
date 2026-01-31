@@ -76,6 +76,6 @@ cd renpy-re-engineered
 mkdir build && cd build && cmake .. && make
 ```
 
-##License
+## License
 
 - This project is licensed under the GNU General Public License Version 3 (GPLv3).
