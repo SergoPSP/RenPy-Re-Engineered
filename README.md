@@ -52,8 +52,8 @@ Ren'Py: Re-Engineered is a reimplementation of the popular Ren'Py visual novel e
 ## Screenshots
 
 <p align="center">
-  <img src="https://placehold.co/400x300/png?text=PSP+Game+Running" alt="PSP Game Screenshot" width="45%">
-  <img src="https://placehold.co/400x300/png?text=Performance+Demo" alt="Performance Demo" width="45%">
+  <img src="https://i.postimg.cc/N5y44wpK/psptest1.png" alt="PSP Game Screenshot" width="45%">
+  <img src="https://i.postimg.cc/3dyBBHnw/psptest2.png" alt="PSP Game Screenshot" width="45%">
 </p>
 
 ## Installation
